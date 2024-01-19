@@ -1,4 +1,4 @@
-# go-to-folder
+# Editable-Finder-Pathbar
 
 An apple script that enhances the *Go to Folder* feature in Finder to provide a more user-friendly experience similar to Windows File Explorer's path bar.
 
