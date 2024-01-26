@@ -9,9 +9,9 @@ It always bothered me that Finder inserts the last path entered instead of the c
 
 ## Installation
 
-This script can be run as service by utilising the support for running apple scripts inside Siri Shortcuts or Automator. 
+This script can be run as a service by utilising the support for running apple scripts inside Siri Shortcuts or Automator. 
 
-Siri Shortcuts can be assigned to a Keyboard shortcut right from inside the Shortcuts app. Services created by Automator can be assigned to a keyboard shortcut under ``Settings/Keyboard/Keyboard Shortucts/Services``.
+Siri Shortcuts can be assigned to a keyboard shortcut right from inside the Shortcuts app. Services created by Automator can be assigned to a keyboard shortcut under ``Settings/Keyboard/Keyboard Shortucts/Services``.
 **Tip:** In order to use the original keyboard shortcut (⇧⌘G) you need to remap the Finder shortcut under ``Settings/Keyboard/App Shortucts/`` to a different shortcut (the menu title syntax looks like this: ``Go->Go to Folder...``).
 
 
